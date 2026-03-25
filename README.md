@@ -1,4 +1,4 @@
-# ChasmVR
+# Chasm - VR Horror Puzzle
 
 ## Screenshots
 - Home Page
