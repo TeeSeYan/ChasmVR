@@ -56,5 +56,6 @@ Designed and implemented puzzle elements such as:
 ![Alt text](image/Chasm_Environment_05.png)
 
 - Puzzle [Physics Based Bridge Construction]
+
 Players must physically assemble planks to create a stable path across the chasm.
 ![Alt text](image/Chasm_GameplaySystem.png)
