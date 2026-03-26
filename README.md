@@ -45,4 +45,13 @@ Designed and implemented puzzle elements such as:
 ## Media
 - Poster
 
-![Alt text](Chasm_Poster.png)
+![Alt text](image/Chasm_Poster.png)
+
+-Game Environment
+
+![Alt text](image/Chasm_Environment_01.png)
+![Alt text](image/Chasm_Environment_02.png)
+![Alt text](image/Chasm_Environment_03.png)
+![Alt text](image/Chasm_Environment_04.png)
+![Alt text](image/Chasm_Environment_05.png)
+
