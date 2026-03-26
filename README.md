@@ -43,3 +43,5 @@ Designed and implemented puzzle elements such as:
 ---
 
 ## Media
+- Poster
+![Alt text](image/Chasm_Poster.png)
