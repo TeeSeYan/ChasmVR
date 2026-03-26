@@ -1,4 +1,4 @@
-# Chasm – VR Horror Puzzle Experience
+# Chasm – VR Horror Puzzle
 
 ## Overview
 Developed a VR horror puzzle experience featuring player movement, interactive mechanics and environmental systems such as lever-based logic and bridge-building gameplay using Unreal Engine 5.
