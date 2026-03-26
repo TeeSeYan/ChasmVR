@@ -6,9 +6,9 @@ Developed a VR horror puzzle experience featuring player movement, interactive m
 ---
 
 ## My Role
-- Implemented player movement and VR input handling
-- Developed interactive gameplay mechanics (lever, object interaction)
-- Built environmental puzzle systems (bridge-building, progression flow)
+- Implemented VR player movement and input handling
+- Developed interactive gameplay systems (object interaction, lever mechanics)
+- Built environmental puzzle mechanics and progression flow
 
 ---
 
@@ -23,7 +23,7 @@ Implemented object interaction including lever activation and environment trigge
 ### Puzzle Mechanics
 Designed and implemented puzzle elements such as:
 - Lever-based door unlocking
-- Bridge-building using planks
+- Physics-based bridge construction using movable planks
 - Conditional progression systems
 
 ---
@@ -47,7 +47,7 @@ Designed and implemented puzzle elements such as:
 
 ![Alt text](image/Chasm_Poster.png)
 
--Game Environment
+- Game Environment
 
 ![Alt text](image/Chasm_Environment_01.png)
 ![Alt text](image/Chasm_Environment_02.png)
@@ -55,3 +55,6 @@ Designed and implemented puzzle elements such as:
 ![Alt text](image/Chasm_Environment_04.png)
 ![Alt text](image/Chasm_Environment_05.png)
 
+- Puzzle [Physics Based Bridge Construction]
+Players must physically assemble planks to create a stable path across the chasm.
+![Alt text](image/Chasm_GameplaySystem.png)
